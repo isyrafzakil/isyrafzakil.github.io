@@ -1,6 +1,11 @@
 # Jobboard
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3. 
+
+The IDE that I used to develop this project is Visual Studio Code
+I used Angular, TypeScript/JavaScript to complete this project
+I used rss-feed-emitter (https://www.npmjs.com/package/rss-feed-emitter) to parse the atom feed.
+For the user interface, I make full use of DevExtreme widgets (https://www.npmjs.com/package/devextreme) (https://www.npmjs.com/package/devextreme-angular)
 
 ## Development server
 
