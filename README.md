@@ -7,6 +7,13 @@ I used Angular, TypeScript/JavaScript to complete this project
 I used rss-feed-emitter (https://www.npmjs.com/package/rss-feed-emitter) to parse the atom feed.
 For the user interface, I make full use of DevExtreme widgets (https://www.npmjs.com/package/devextreme) (https://www.npmjs.com/package/devextreme-angular)
 
+## Project Feature
+- Users can view all available postings and set the pagination
+- Users can order the results by job title, posting department and all kind of categories by clicking on the category
+- Users can filter the results to see only a subset of the above categories by toggling the filter button at the topright and input any filter they like
+- Users can search anything 
+- Users can go to the full post of the job by clicking the row on the table
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -33,9 +40,3 @@ Before running the tests make sure you are serving the app via `ng serve`.
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-## Project Feature
-- Users can view all available postings and set the pagination
-- Users can order the results by job title, posting department and all kind of categories by clicking on the category
-- Users can filter the results to see only a subset of the above categories by toggling the filter button at the topright and input any filter they like
-- Users can search anything 
-- Users can go to the full post of the job by clicking the row on the table
