@@ -1,5 +1,8 @@
-# osu-job-board
-Simple Angular 2 app that work with the OSU job board feed.
+## osu-job-board
+Simple Angular 2 app that work with the OSU job board feed. 
+
+[Click here](http://isyrafzakil.github.io/osu-job-board/) to see it live. Please enable CORS.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3. 
 
